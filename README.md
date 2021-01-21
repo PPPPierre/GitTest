@@ -4,3 +4,9 @@ Test repositry for Git bash.
 9999999999999999999999999999
 
 fenzhiguanli
+
+
+
+
+
+Let's fix some bug lalalalalal
